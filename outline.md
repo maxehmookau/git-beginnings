@@ -31,3 +31,41 @@
 * Collaboration.
 * Visibility.
 * Saving yourself from epic losses of data!
+
+# Using git
+
+## Creating a repository
+
+Git works with 'repositories'. This is just a folder where your code is.
+
+    git init
+
+Creates a folder called `.git` where the magic happens. **Never delete this folder! EVER!**
+
+## Stages of a file
+
+Create -> Edit -> Stage -> Commit -> Push
+
+### Create
+
+* Just create a file in the project.
+
+### Edit
+
+* Edit the file. Type some text.
+
+### Stage
+
+    git add <filename>
+
+or
+
+    git add .
+
+### Commit
+
+    git commit -m 'Some information about the changes made'
+
+### Push
+
+    git push origin <branch_name>
