@@ -32,7 +32,7 @@
 * Visibility.
 * Saving yourself from epic losses of data!
 
-# Using git
+# Using git - One-person workflow.
 
 ## Creating a repository
 
@@ -68,4 +68,4 @@ or
 
 ### Push
 
-    git push origin <branch_name>
+    git push origin master
