@@ -65,3 +65,8 @@ or
 ### Commit
 
     git commit -m 'Some information about the changes made'
+
+## Branching Workflow
+
+## Collaborating on GitHub
+
