@@ -44,7 +44,7 @@ Creates a folder called `.git` where the magic happens. **Never delete this fold
 
 ## Stages of a file
 
-Create -> Edit -> Stage -> Commit -> Push
+Create -> Edit -> Stage -> Commit -> Push *(optional)*
 
 ### Create
 
@@ -65,7 +65,3 @@ or
 ### Commit
 
     git commit -m 'Some information about the changes made'
-
-### Push
-
-    git push origin master
